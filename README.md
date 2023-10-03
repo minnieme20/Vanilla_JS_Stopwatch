@@ -20,7 +20,7 @@ This project is a simple stopwatch implemented using HTML, CSS, and JavaScript. 
 
 ## Demo
 
-[Link to Live Demo](#) _(Add the live demo link once your project is hosted)_
+https://github.com/minnieme20/Vanilla_JS_Stopwatch/assets/111052951/b014c3c9-4718-48dd-bb3a-90b87e105a69
 
 ## Getting Started
 
